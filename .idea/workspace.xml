@@ -67,26 +67,6 @@
       <recent name="Bank" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="TestSC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch2.TestSC" />
-      <module name="S2023-IDEA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.TestSC" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -117,6 +97,7 @@
       <workItem from="1681957402886" duration="1075000" />
       <workItem from="1681989566261" duration="1821000" />
       <workItem from="1682162508934" duration="112000" />
+      <workItem from="1682179595851" duration="6377000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1681793024768</created>
