@@ -36,11 +36,6 @@ class Duck extends Animal implements Pet,Sound{
     @Override
     public void shout(String voice){
         Sound.super.shout(voice);
-
-
-
-
-
         System.out.println("I am a yellow duck.");
     }
 }
