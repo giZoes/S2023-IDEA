@@ -60,6 +60,6 @@ class Fish extends Animal implements Pet{
     }
     public void walk(){
         super.walk();
-        System.out.println(getName()+" has no legs.");
+        System.out.println(getName()+"  has no legs.");
     }
 }

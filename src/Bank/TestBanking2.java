@@ -10,8 +10,8 @@ public class TestBanking2 {
         Account one=new SavingsAccount(5000,0.017);
         Account two=new CheckingAccount(3000,2000);
         Account three=new CheckingAccount(2000,5000);
-        Bank.addCustomer("san", "Zhang");
-        Bank.addCustomer("si", "Li");
+        Bank.addCustomer("Zhang", "san");
+        Bank.addCustomer("Li", "si");
         Bank.getCustomer(0).addAccount(one);
         Bank.getCustomer(0).addAccount(two);
         Bank.getCustomer(1).addAccount(three);
